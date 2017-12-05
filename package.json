@@ -1,0 +1,11 @@
+{
+  "name": "modbus-christmas-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AlekseyLeshko/modbus-christmas-tree.git",
+  "author": "AlekseyLeshko <alekseyleshko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsmodbus": "^2.3.0"
+  }
+}
